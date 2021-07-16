@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gagblezu
-- 👀 I’m interested in ...music 
+- 👀 I’m interested in ... admob SDK integration
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... how to publish an app on admob
 - 📫 How to reach me ... +233543641255
 
 <!---
